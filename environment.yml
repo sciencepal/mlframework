@@ -35,7 +35,7 @@ dependencies:
   - pillow=7.0.0=py37hb39fc2d_0
   - pip=19.3.1=py37_0
   - pycparser=2.19=py37_0
-  - python=3.7.6=h0371630_1
+  - python=3.7.6=h0371630_2
   - python-dateutil=2.8.1=py_0
   - pytorch=1.3.1=py3.7_cuda10.1.243_cudnn7.6.3_0
   - pytz=2019.3=py_0
